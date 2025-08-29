@@ -5,7 +5,7 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Game-gen Generator',
+  title: 'Pong-Tastic!',
   description: 'Enter a prompt to generate a game',
 }
 
